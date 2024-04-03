@@ -1,4 +1,4 @@
-# Google_Form_Automation - _Yash Malekar_
+# Google Form Automation - _Yash Malekar_
 
 ## Project Description:
 This Project automates tasks related to Google Forms, making it easier to create, manage and analyze form submissions
